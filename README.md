@@ -1,4 +1,4 @@
-# CSCI 571 HW4 OPTION 1 - PHOTO ALBUM
+# IMAGE PICKER
 
 ## Contact Information
 <ul>Name : Lei Lu</ul>
