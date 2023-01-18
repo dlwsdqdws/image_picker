@@ -2,7 +2,7 @@
 
 ## Contact
 <ul>Name : Lei Lu</ul>
-<ul>Email : lulei@usc.edu</ul>
+<a href="mailto:dlwsdqdws@gmail.com">dlwsdqdws@gmail.com</a>
 
 ## Outline
 
