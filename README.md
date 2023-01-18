@@ -2,7 +2,8 @@
 
 ## Contact
 <ul>Name : Lei Lu</ul>
-<a href="mailto:dlwsdqdws@gmail.com">dlwsdqdws@gmail.com</a>
+<ul>Email : <a href="mailto:dlwsdqdws@gmail.com">dlwsdqdws@gmail.com</a></ul>
+
 
 ## Outline
 
