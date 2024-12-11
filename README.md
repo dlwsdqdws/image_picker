@@ -29,6 +29,10 @@ This is a local photo album containing the following features:
 ## Note
 ### Version
 Developed on iphone 12 IOS 15.4.
+Flutter 2.10.5 • channel stable • https://github.com/flutter/flutter.git
+Framework • revision 5464c5bac7 (2 years, 8 months ago) • 2022-04-18 09:55:37 -0700
+Engine • revision 57d3bac3dd
+Tools • Dart 2.16.2 • DevTools 2.9.2
 
 ### How to Run
 1. Unzip the folder
